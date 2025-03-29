@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "lerna": "7.1.5",
-    "nx": "16.7.2"
+    "nx": "20.5.1"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "6.4.1",
